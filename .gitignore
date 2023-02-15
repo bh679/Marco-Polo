@@ -10,7 +10,7 @@
 /[Ll]ogs/
 /[Mm]emoryCaptures/
 
-#Asset Store & PLugins
+#Asset Store & Plugins
 /[Aa]ssets/Plugins/Editor/ScriptInspector*
 /[Aa]ssets/BNG Framework/*
 !/[Aa]ssets/BNG Framework/Scripts/BNG Core.asmdef
@@ -19,6 +19,7 @@
 /[Aa]ssets/PolygonHorrorMansion/*
 /[Aa]ssets/ExplosiveLLC/*
 /[Aa]ssets/TextMesh Pro/*
+/[Aa]ssets/ClearFlatIcon/*
 
 #Private Keys & Webhooks
 /[Aa]ssets/BrennanHatton/Webhooks/*.txt
@@ -72,3 +73,6 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+#Compression Files
+*.zip
+*.rar
